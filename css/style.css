@@ -1,5 +1,4 @@
 ﻿@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
-@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css");
 
 /* Basic */
 
@@ -529,7 +528,6 @@ a:hover {
 }
 
 
-
 #header nav li:nth-child(2) {
     -moz-animation-delay: 2.75s;
     -webkit-animation-delay: 2.75s;
@@ -684,8 +682,7 @@ textarea {
 }
 
 
-.block h1
-{
+.block h1 {
     color: #444;
     line-height: 1.25em;
     padding-top: 6%;
@@ -695,50 +692,43 @@ textarea {
     text-align: center;
 }
 
-label
-{
+label {
     font-weight: 400;
     text-align: left;
 }
-.oneLine
-{
+
+.oneLine {
     text-align: left;
-    position:relative;
+    position: relative;
 }
-label.big
-{
+
+label.big {
     font-size: large;
     font-weight: 600;
 }
 
-label.label-error
-{
+label.label-error {
     color: red;
 }
 
-label.label-ok
-{
+label.label-ok {
     color: green;
 }
 
-.submit_div
-{
+.submit_div {
     margin: 3%;
     text-align: center;
 }
 
-.right
-{
+.right {
     text-align: right;
 }
 
-.submit_btn
-{
+.submit_btn {
     width: 20%;
 }
 
-#bottomPanel
-{
+#bottomPanel {
     background-color: black;
     opacity: 0.5;
     text-align: right;
